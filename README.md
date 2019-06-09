@@ -1,6 +1,6 @@
 ## Check [this](https://www.coursera.org/account/accomplishments/specialization/LVSBH75D7QT7) out :bowtie:
 
-# ~~What's left~~
+## ~~What's left~~
 - [X] Architecting with Google Kubernetes Engine: Workloads 
 - [X] Architecting with Google Kubernetes Engine: Production
 ------------
